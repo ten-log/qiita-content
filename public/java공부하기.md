@@ -4,7 +4,7 @@ tags:
   - Java
   - spring
 private: true
-updated_at: "2023-11-16T17:53:47+09:00"
+updated_at: '2023-11-16T17:54:56+09:00'
 id: 90c4a40dd8e4f150854f
 organization_url_name: null
 slide: false
